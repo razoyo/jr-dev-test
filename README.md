@@ -4,8 +4,8 @@ The goal of this mini-project is to develop some PHP classes that allow Magento 
 
 ## File overview
 There are 2 external files that are included into this script.
-  raz-lib.php - Razoyo provided classes and interfaces (do NOT touch)
-  dev-lib.php - Where you should put any of your classes
+* raz-lib.php is where we provided classes and interfaces (do NOT touch)
+* dev-lib.php is where you should put any of your classes
 
 ## API Documentation
 Magento API docs: <http://www.magentocommerce.com/api/soap/introduction.html>
