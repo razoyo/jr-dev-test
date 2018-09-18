@@ -16,7 +16,7 @@ $formatKey = 'csv'; // csv, xml, or json
 
 // Connect to SOAP API using PHP's SoapClient class
 // Feel free to create your own classes to organize code
-$soap = new SoapClient($apiUrl);
+$soap = new SoapClient($apiWsdl);
 // ...
 
 // You will need to create a FormatFactory.
