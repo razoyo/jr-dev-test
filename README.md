@@ -2,6 +2,8 @@
 
 The goal of this mini-project is to develop some PHP classes that allow Magento product information to be displayed in several different formats (CSV, XML, and JSON). You will be connecting to a Magento store that sells children's golf apparel: <https://www.shopjuniorgolf.com/>
 
+If you feel like this exercise is over your head, you may be interested in our intern-to-full-time internship program. You may apply to that program here: <https://www.razoyo.com/developer-internship/>
+
 ## File overview
 There are 2 external files that are included into this script.
 * raz-lib.php is where we provided classes and interfaces (do NOT touch)
