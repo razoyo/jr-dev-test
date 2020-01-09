@@ -14,6 +14,7 @@ Magento API docs: <http://www.magentocommerce.com/api/soap/introduction.html>
 
 ## Requirements
 Make sure that your code meets each of the following requirements.
+1. Get us your IP address so we can whitelist you.
 1. Use the SOAP V1 API protocol to query data.
 1. Script must be able to ouput records in CSV, XML, and JSON format.
 1. Create a FormatFactory class that uses constants for the format codes (csv, xml, json).
